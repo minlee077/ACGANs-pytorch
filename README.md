@@ -1,6 +1,6 @@
 
 
-## vanillaGAN
+## VanillaGAN
 
 ### Result 
 Mnist 100eps
@@ -9,4 +9,4 @@ Mnist 100eps
 
 ## Semi-supervised GAN
 
-## Condtional GAN
+## Conditional GAN
